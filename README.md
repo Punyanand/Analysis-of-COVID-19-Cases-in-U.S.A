@@ -18,11 +18,17 @@ These data sets will be used to visualize and determine which county provides be
 **Hypothesis:**
 
 • Whether the People in Bronx County are less likely to get affected by COVID-19 than People in Erie County.
+
 • Does the age group 20- 44 are hospitalized less as compared to the age group 55 -64 because of younger age?
+
 • Whether the INDEPENDENT hospital network in Erie County has less treatment scale than the CATHOLIC HEALTH network and KALEIDA HEALTH network.
+
 • Does less hospitalization happen in second quarter in Bronx County as compared to the first quarter because better prevention measures have been taken?
+
 • Whether patients in ICU are more likely to expire in Bronx County than in Erie County.
+
 • Whether patients affected by COVID-19 are more likely to expire in Bronx County as compared to Erie County.
+
 • Weather patients
 
 **Links:**
@@ -30,14 +36,20 @@ These data sets will be used to visualize and determine which county provides be
 Primary Dataset: https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Hospitalizations/jw46-jpb7
 Dataset: https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data
 Records:
+
 • In the primary Data set we have 171K Rows and 37 columns.
+
 • In the secondary data set we have 67.8K Rows and 8 columns.
 
 **Visualization:**
 
 In order to get reliable visualization, we will first clean the dataset using Python. Further, we will be using Tableau as our visualization tool due to its salient features:
+
 • Intuitive dashboard with the ability to create representations simply using drag and drop.
+
 • Tableau can recommend and select the best visualization based on the data and attributes selected.
+
 • Capability to work with multiple data sources and handle large datasets.
+
 • Easy to try multiple visualization types and choose one that best serves your interests.
 
